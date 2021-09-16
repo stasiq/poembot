@@ -6,5 +6,13 @@
             "email": "s.konovalov@intensa.ru"
         }
     ],
-    "require": {}
+    "require": {
+        "symfony/var-dumper": "^5.3",
+        "fakerphp/faker": "^1.16"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    }
 }
