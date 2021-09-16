@@ -1,0 +1,10 @@
+{
+    "name": "dev/www",
+    "authors": [
+        {
+            "name": "s.konovalov",
+            "email": "s.konovalov@intensa.ru"
+        }
+    ],
+    "require": {}
+}
