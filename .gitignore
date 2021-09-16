@@ -1,0 +1,7 @@
+.idea
+*.iml
+out
+gen
+*.log
+/www/vendor/
+vendor/
